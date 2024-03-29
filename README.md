@@ -38,9 +38,11 @@ Follow the on-screen prompts to configure Gost tunnels according to your prefere
 
 ## Project Tutorial
 
-[![YouTube Tutorial](https://img.youtube.com/vi/AHzhI7TUJSI/0.jpg)](https://youtu.be/AHzhI7TUJSI)
+[![YouTube Tutorial](https://img.youtube.com/vi/LJYVWH8GyKM/0.jpg)](https://youtu.be/LJYVWH8GyKM)
 
-Support the Video creator: [Telegram Channel](https://t.me/+2S96GjBZJ1cxYzVk)
+---
+
+[![YouTube Tutorial](https://img.youtube.com/vi/Qlz61mlkQ5A/0.jpg)](https://youtu.be/Qlz61mlkQ5A)
 
 
 **Options:**
@@ -74,6 +76,6 @@ The script offers the following options:
 
 ## Version
 
-Gost IP6 Script v2.1.4
+Gost IP6 Script v2.1.7
 
 ---

@@ -35,9 +35,13 @@
 
 ## آموزش پروژه
 
-[![آموزش یوتیوب](https://img.youtube.com/vi/AHzhI7TUJSI/0.jpg)](https://youtu.be/AHzhI7TUJSI)
+[![آموزش یوتیوب](https://img.youtube.com/vi/LJYVWH8GyKM/0.jpg)](https://youtu.be/LJYVWH8GyKM)
 
-حمایت از سازنده ویدئو: [کانال تلگرام](https://t.me/+2S96GjBZJ1cxYzVk)
+
+---
+
+[![آموزش یوتیوب](https://img.youtube.com/vi/Qlz61mlkQ5A/0.jpg)](https://youtu.be/Qlz61mlkQ5A)
+
 
 **گزینه‌ها:**
 
@@ -68,6 +72,6 @@
 
 ## نسخه
 
-اسکریپت Gost IP6 v2.1.4
+اسکریپت Gost IP6 v2.1.7
 
 ---
