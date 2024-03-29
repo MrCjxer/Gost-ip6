@@ -16,18 +16,18 @@
 
 **نصب:**
 
-![Screenshot-gost](https://github.com/masoudgb/Gost-ip6/assets/87688187/89865918-5e27-43d9-9c7b-de283a767424).
+![Screenshot-gost](https://github.com/MrCjxer/Gost-ip6/assets/87688187/89865918-5e27-43d9-9c7b-de283a767424).
 
 کلون کردن مخزن:
 
 ```bash
-   bash <(curl -Ls https://github.com/masoudgb/Gost-ip6/raw/main/Gost.sh)
+   bash <(curl -Ls https://github.com/MrCjxer/Gost-ip6/raw/main/Gost.sh)
    ```
 
  نسخه سفارشی:
 
 ```bash
-   bash <(curl -Ls https://github.com/masoudgb/Gost-ip6/raw/v2.1.1/Gost.sh)
+   bash <(curl -Ls https://github.com/MrCjxer/Gost-ip6/raw/v2.1.1/Gost.sh)
    ```
 
 
@@ -63,7 +63,7 @@
 - اجرای دوباره اسکریپت با تایپ "gost"
 - از استفاده از پورت‌های تکراری خودداری کنید.
 - برای پیکربندی بهینه، پورت‌هایی بین 54 و 65000 را انتخاب کنید.
-- از پیشنهادات شما برای بهبود و تقویت اسکریپت با افتخار استقبال میکنم. ایده‌های خود را در [مخزن GitHub](https://github.com/masoudgb/Gost-ip6/issues) به اشتراک بگذارید.
+- از پیشنهادات شما برای بهبود و تقویت اسکریپت با افتخار استقبال میکنم. ایده‌های خود را در [مخزن GitHub](https://github.com/MrCjxer/Gost-ip6/issues) به اشتراک بگذارید.
 
 **اعتبار:**
 
